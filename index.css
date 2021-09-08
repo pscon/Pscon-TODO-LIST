@@ -1,0 +1,51 @@
+body {
+    background-color: cornsilk;
+    font-family: 'Nunito', sans-serif;
+}
+
+#todo-list {
+   text-align: center;
+}
+
+h1 {
+    color:darkblue;
+    margin: 0px;
+    padding: 20px;
+}
+
+h5 {
+  color:darkblue;
+  margin: 0px;
+  padding: 20px;
+  text-align: center;
+}
+
+ul {
+    padding: 0px;
+}
+
+.item {
+    color: darkgrey;
+
+}
+
+input[type='text'] {
+    font-size: 12px;
+    padding: 6px;
+    border: 1px solid #000;
+    border-radius: 3px;
+  }
+
+  input[type='submit'] {
+    background-color:lightblue;
+  color: #000;
+  border-radius: 8px;
+  border: none;
+  padding: 5px;
+border: 1px solid blue;
+  }
+
+  #itemField {
+    margin-top: 20px;
+    width: 10%;
+  }
